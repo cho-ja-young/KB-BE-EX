@@ -1,0 +1,7 @@
+package Practice.src.c20250417.basic.ch07.sec08.exam01;
+
+public class Tire {
+    public void roll() {
+        System.out.println("회전합니다.");
+    }
+}
