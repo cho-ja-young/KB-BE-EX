@@ -1,7 +1,6 @@
 package Practice.src.c20250424.hard.ch14.exam;
 
 public class MusicRunnable implements Runnable {
-
     @Override
     public void run() {
         for (int i = 0; i < 6; i++) {
