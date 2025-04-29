@@ -1,0 +1,13 @@
+package Practice.src.s20250429.hard.ch13.sec03.exam01;
+
+public class Box<T> {
+    private T t;
+
+    public T get() {
+        return t;
+    }
+
+    public void set(T t) {
+        this.t = t;
+    }
+}
