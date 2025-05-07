@@ -4,7 +4,7 @@ import java.util.Stack;
 
 // 명령 관리자(Invoker)
 public class CommandInvoker {
-    private Stack<Command> history = new Stack<>();
+    private static Stack<Command> history = new Stack<>();
 
     // 전달 받은 Command를 실행하는 메서드
     public static void executeCommand(Command command) {
