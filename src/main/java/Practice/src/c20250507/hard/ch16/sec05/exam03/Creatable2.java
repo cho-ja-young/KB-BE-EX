@@ -1,4 +1,4 @@
-package Practice.src.c20250507.basic.ch16.sec05.exam03;
+package Practice.src.c20250507.hard.ch16.sec05.exam03;
 
 @FunctionalInterface
 public interface Creatable2 {

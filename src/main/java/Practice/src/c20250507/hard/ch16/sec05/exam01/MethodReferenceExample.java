@@ -1,4 +1,4 @@
-package Practice.src.c20250507.basic.ch16.sec05.exam01;
+package Practice.src.c20250507.hard.ch16.sec05.exam01;
 
 public class MethodReferenceExample {
     public static void main(String[] args) {
