@@ -4,8 +4,6 @@ import lombok.*;
 
 @Data
 @AllArgsConstructor
-@Getter
-@Setter
 @ToString
 public class Product {
     private int pno;
