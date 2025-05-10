@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 public class FileExample {
     public static void main(String[] args) {
         try {
-            String pathname = "/Users/jiham/Desktop/file1.txt";
+            String pathname = "C:/Temp/file1.txt";
             File file1 = new File(pathname);
             Path path = Paths.get(pathname);
 
