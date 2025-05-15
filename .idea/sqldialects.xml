@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/basic/joinHardBasic1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/basic/joinHardBasic2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/basic/joinHardBasic3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/basic/joinHardBasic4.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/hard/joinEmployeeHard1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/hard/joinHardHard1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250515/hard/joinHardHard2.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
