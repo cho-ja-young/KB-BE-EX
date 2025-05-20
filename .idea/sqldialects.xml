@@ -11,6 +11,9 @@
     <file url="file://$PROJECT_DIR$/src/main/db/c20250519/basic/tabledbBasic.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/db/c20250519/hard/employeesHard.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/db/c20250519/hard/tabledbHard.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250520/basic/sqldbBasic.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250520/basic/testbBasic.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/db/c20250520/hard/sqldbHard.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/db/study/chapter08.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
